@@ -27,6 +27,8 @@ This is my solution to the QR Code Component from Frontend Mentor. This is the f
 
 ## My process
 
+Before starting the code for this project I brought the preview images provided into [penpot](https://penpot.app/) to recreate the elements. This allowed me to get a better understanding of font sizes, margins and paddings. 
+
 I started this project by creating a [styles.css](https://github.com/briannelson95/frontend-mentor/blob/main/qr-code-component-main/styles.css) file and adding all of the properties that are specified in the style guide. I utilized the `var()` css property to set all the custom colors.
 
 After setting all my css variables I got started on the html semantics. I decided that this component would be a single `div` inside the `main`. Inside the card div I sectioned off the image and text into their own divs to better style them.
